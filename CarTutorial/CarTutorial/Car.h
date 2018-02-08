@@ -57,4 +57,3 @@ public:
 	void		Set_Color(std::string input);
 
 };
-
